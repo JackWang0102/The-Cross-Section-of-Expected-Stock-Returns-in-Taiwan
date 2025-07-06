@@ -25,7 +25,7 @@ This study investigates the cross-sectional determinants of expected stock retur
 
 
 ### Table: t-test results  
-*Significance levels: *p* < 0.10 (*), *p* < 0.05 (**), *p* < 0.01 (***)
+*Significance levels: *p* < 0.10 (\*), *p* < 0.05 (\**), *p* < 0.01 (\***)
 
 | β                         | ln(size)                    | ln(BE/ME)                 |
 |--------------------------|-----------------------------|---------------------------|
