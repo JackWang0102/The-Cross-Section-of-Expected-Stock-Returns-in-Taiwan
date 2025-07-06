@@ -24,3 +24,17 @@ This study investigates the cross-sectional determinants of expected stock retur
      * The size effect does not exhibit notable differences between these industries.
 
 
+### Table: t-test results  
+*Significance levels: *p* < 0.10 (*), *p* < 0.05 (**), *p* < 0.01 (***)
+
+| β                         | ln(size)                    | ln(BE/ME)                 |
+|--------------------------|-----------------------------|---------------------------|
+| -0.08  <br> (-0.16)      |                             |                           |
+|                          | -0.18*** <br> (-2.97)       |                           |
+|                          |                             | 0.28* <br> (1.94)         |
+| -0.15 <br> (-0.31)       | -0.18*** <br> (-3.00)       |                           |
+| -0.20 <br> (-0.42)       | -0.17*** <br> (-2.81)       | 0.11 <br> (0.82)          |
+|                          | -0.17*** <br> (-2.79)       | 0.11 <br> (0.80)          |
+
+
+
